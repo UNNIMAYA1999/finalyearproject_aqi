@@ -1,0 +1,1 @@
+web: gunicorn aerify.wsgi --log-file -
